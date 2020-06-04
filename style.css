@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:#FFFFFF;
+    font-family: 'Playfair Display', serif;
+} 
+.container{
+    max-width: 800px;
+    background-color: #F9F9F9;
+    margin:0 auto;
+}
+.profile{
+    height: 100px;
+    width: 120px;
+    border: #019FA2 solid 5px; 
+    border-radius: 20px;
+    float: left;
+}
+header{
+    padding: 20px;
+}
+.file{
+    float: left;
+    padding: 10px;
+    color: cornflowerblue;
+    
+} 
+.contact{
+    color: cyan;
+    float: right; 
+    padding: 5px;
+    font-family: fantasy;
+    
+}
+.contact a{
+    text-decoration: none;
+    padding: 5px;
+    color: darkcyan;
+    
+}
+.contact a:hover{
+    text-decoration: underline;
+    color: deeppink;
+    cursor: -moz-grab;
+} 
+.clear-div{
+    clear: both;
+    padding: 10px;
+}
+hr{
+    border: solid;
+    border-color: dodgerblue;
+    border-width: 80%;
+    border-bottom: none;
+}
+.personal1{
+
+}
+.left-side1{ 
+    color: aqua;
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    width: 30%;
+
+}
+.right-side1{
+    float: right;
+    width: 70%;
+    color: forestgreen;
+    font-family:'Roboto', sans-serif;
+
+}
+.clear2{
+    clear: both;
+}
+.line-breaker{
+    color: black;
+    width: 95%;
+    margin: 10px auto;
+}
+.personal2{
+
+}
+.right-side2{ 
+    color: aqua;
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    width: 30%;
+
+}
+.left-side2{
+    font-family:'Roboto', sans-serif ; 
+    color: forestgreen;
+    float: right;
+    width: 70%;
+
+}
+.edu{
+
+}
+.edu-right{ 
+    float: left; 
+    width: 40%;
+
+}
+.edu-left{ 
+    float: right;
+    width: 60%; 
+
+
+}
+/* hell0*/
+.bottom-container{
+    background-color: black; 
+    text-align: center; 
+    padding: 20px;
+} 
+.bottom-container a{
+    color: white; 
+    text-decoration: none; 
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.copyright{
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif; 
+    color: #F9F9F9;
+}
